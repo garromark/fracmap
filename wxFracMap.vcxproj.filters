@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{047a2d66-8c6c-4331-a99e-b344eb5c3fe9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\unix_fratal">
+      <UniqueIdentifier>{0b0d18cd-b3a6-4d56-a51a-4ec18f398456}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FractalCanvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FractalFrame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MicrographFrame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PostTextEvent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadedFractalCreate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wxMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="unix_fractal\3dstructure.cpp">
+      <Filter>Source Files\unix_fratal</Filter>
+    </ClCompile>
+    <ClCompile Include="unix_fractal\boxcountDf.cpp">
+      <Filter>Source Files\unix_fratal</Filter>
+    </ClCompile>
+    <ClCompile Include="unix_fractal\fractal.cpp">
+      <Filter>Source Files\unix_fratal</Filter>
+    </ClCompile>
+    <ClCompile Include="unix_fractal\micrograph.cpp">
+      <Filter>Source Files\unix_fratal</Filter>
+    </ClCompile>
+    <ClCompile Include="unix_fractal\orientation.cpp">
+      <Filter>Source Files\unix_fratal</Filter>
+    </ClCompile>
+    <ClCompile Include="unix_fractal\sorensenDf.cpp">
+      <Filter>Source Files\unix_fratal</Filter>
+    </ClCompile>
+    <ClCompile Include="unix_fractal\Vector_2.cpp">
+      <Filter>Source Files\unix_fratal</Filter>
+    </ClCompile>
+    <ClCompile Include="unix_fractal\Vector_3.cpp">
+      <Filter>Source Files\unix_fratal</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
